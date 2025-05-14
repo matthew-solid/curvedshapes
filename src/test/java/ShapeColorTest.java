@@ -25,4 +25,4 @@ public class ShapeColorTest {
         }
         assertTrue("Gradient should be present (at least two different colors)", colors.size() > 1);
     }
-} 
+}
